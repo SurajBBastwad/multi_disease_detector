@@ -1,5 +1,8 @@
-cnn_model.h5
-data/
+__pycache__/
+*.keras
+*.h5
 *.npy
 *.csv
 *.zip
+data/
+venv/

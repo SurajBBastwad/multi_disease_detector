@@ -22,3 +22,4 @@ This project is a full-stack medical image classifier built with TensorFlow and 
    ```bash
    git clone https://github.com/your-username/multi_disease_detector.git
    cd multi_disease_detector
+   streamlit run app.py
